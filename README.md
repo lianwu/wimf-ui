@@ -12,3 +12,5 @@ $ npm install
 ```sh
 $ gulp watch
 ```
+- Open web browser
+- Go to localhost:3030
