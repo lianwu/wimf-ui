@@ -1,0 +1,21 @@
+{
+  "ecmaFeatures": {
+    "arrowFunctions": true,
+    "blockBindings": true,
+    "destructuring": true,
+    "forOf": true,
+    "jsx": true,
+    "modules": true,
+    "restParams": true,
+    "spread": true,
+  },
+  "rules": {
+    "comma-dangle": [2, "always-multiline"],
+    "camelcase": 2,
+    "dot-notation": [2, {"allowPattern": "^[a-z]+(_[a-z]+)+$","allowKeywords": false}],
+    "eol-last": 2,
+    "space-after-keywords": 2,
+    "space-before-blocks": 2,
+    "object-curly-spacing": [2, "always"],
+  }
+}
