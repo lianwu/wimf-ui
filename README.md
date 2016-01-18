@@ -3,8 +3,8 @@ This is Front-End repo for WIMF project.
 
 ## Preparation
 ```sh
-$ git clone git@github.com:minsooshin/wimf.git
-$ cd wimf
+$ git clone git@github.com:minsooshin/wimf-ui.git
+$ cd wimf-ui
 $ npm install
 ```
 
