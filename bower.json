@@ -1,0 +1,28 @@
+{
+  "name": "wimf",
+  "description": "food ordering application",
+  "main": "index.js",
+  "authors": [
+    "wimf"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "order",
+    "food",
+    "online"
+  ],
+  "homepage": "https://github.com/minsooshin/wimf-ui",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "jquery": "~2.2.0"
+  }
+}
